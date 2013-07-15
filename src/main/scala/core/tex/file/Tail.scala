@@ -1,4 +1,4 @@
-package scala.pimps.file
+package core.tex.file
 
 import java.nio.file.{Files, Path}
 import java.nio.charset.StandardCharsets

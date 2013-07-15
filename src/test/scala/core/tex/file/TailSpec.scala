@@ -1,4 +1,4 @@
-package scala.pimps.file
+package core.tex.file
 
 import org.scalatest.WordSpec
 import scala.collection.mutable.ListBuffer
